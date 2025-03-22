@@ -1,0 +1,84 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(bg\ im.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+ h1{
+    color: dodgerblue ;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+border: 3px 3px 3px black;
+}
+a{
+    text-decoration: none;
+    color: rgb(0, 72, 255);
+    border: 5px white;
+    box-shadow: 2px 2px 2px 2px black;
+    display: inline;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+h2{
+    color: rgb(0, 170, 255);
+    margin-left: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-decoration: dotted;
+}
+img{
+    margin-left: 20px;
+    height: 350px;
+    box-shadow: 3px 3px 3px 3px black;
+}
+img:hover{
+    height: 500px;
+    transition: 1s;
+}
+
+h3{
+    margin-left: 20px;
+    color: darkturquoise;
+}
+div{
+    display:flex;
+box-shadow: none;
+margin-top: 20px;
+}
+h4{
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
